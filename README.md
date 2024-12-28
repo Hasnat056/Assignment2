@@ -1,2 +1,2 @@
 # Assignment2
-Ant Colony Simulatoon
+Ant Colony Simulaton
